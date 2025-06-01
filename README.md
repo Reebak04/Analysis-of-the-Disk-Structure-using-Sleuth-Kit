@@ -1,6 +1,5 @@
 # Analysis-of-the-Disk-Structure-using-Sleuth-Kit
-# Name: Aishwarya S
-# Reg No: 212222100003
+
 ## AIM:
 To analyze the disk structure of a given disk image using Sleuth Kit tools in Kali Linux.
 
